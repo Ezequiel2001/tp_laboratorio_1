@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1567735221 source:c:\users\luciano\desktop\nueva carpeta (2)\facultad\tp intento2\bibliotecas.c
+
+1567736894 source:c:\users\luciano\desktop\nueva carpeta (2)\facultad\tp intento2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Bibliotecas.h"
+
+1567734412 c:\users\luciano\desktop\nueva carpeta (2)\facultad\tp intento2\bibliotecas.h
+
